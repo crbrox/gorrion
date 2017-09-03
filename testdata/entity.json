@@ -1,0 +1,19 @@
+{
+  "type": "Room",
+  "id": "Bcn-Welt",
+  "temperature": {
+    "value": 21.7
+  },
+  "humidity": {
+    "value": 60
+  },
+  "location": {
+    "value": "41.3763726, 2.1864475",
+    "type": "geo:point",
+    "metadata": {
+      "crs": {
+        "value": "WGS84"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+"humidity" : {
+			"value" : 32,
+			"type" : "celsius",
+			"metadata" : {
+			"modificado": true	
+			}
+		}
+}

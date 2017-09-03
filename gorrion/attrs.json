@@ -1,0 +1,10 @@
+{
+		"otro" : {
+			"value" : [1,2,3],
+			"type" : "vector",
+			"metadata" : {
+			"size": 3	
+			}
+		}
+}
+
